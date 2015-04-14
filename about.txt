@@ -1,0 +1,9 @@
+Welcome to Battleships v. 1.1!
+In this game, your goal is to destroy the enemy fleet. Strategically place your ships on your battlefield on the left. You have five ships in total:
+Aircarrier [1]
+Battleship [1]
+Cruiser [1]
+Destroyer [2]
+After you have placed your ships, you can start the game. Destroy enemy ships by guessing their coordinates on the battlefield on the right. The only way to win is to destroy every enemy ship.
+Be ware! The enemy admiral is insane, and his ships will fire at random on your battlefield. If they get the best of you, your career as an admiral is doomed.
+Good luck, admiral.
